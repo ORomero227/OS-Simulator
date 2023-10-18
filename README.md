@@ -37,4 +37,6 @@ OS-Simulator is a Java Swing-based application that simulates the behavior of an
 - The application provides a graphical interface for easy interaction with the operating system simulation.
 
 ## Screenshots
-- Main Window
+![Main Window](MainWindow.png)
+![Process Control Block Window](ProcessControlBlock.png)
+![Setting Window](SettingsWindow.png)
